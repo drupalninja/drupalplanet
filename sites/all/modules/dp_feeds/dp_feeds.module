@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the dp_feeds feature.
+ */
+
+include_once 'dp_feeds.features.inc';
